@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.purple-background {
+  background: linear-gradient(122deg, rgb(7, 6, 16) 0%, rgb(76, 18, 90) 100%) 0%
+    0% / cover no-repeat padding-box padding-box transparent;
+}
